@@ -2,9 +2,9 @@
 ---
 Naina Singh
 ---
-[https://n2singh.github.io/Lab5_Starter/expose.html](https://n2singh.github.io/Lab5_Starter/expose.html)
+[expose.html](https://n2singh.github.io/Lab5_Starter/expose.html)
 
-[https://n2singh.github.io/Lab5_Starter/explore.html](https://n2singh.github.io/Lab5_Starter/explore.html)
+[explore.html](https://n2singh.github.io/Lab5_Starter/explore.html)
 ---
 ### Pt 3. Unit Testing with Jest
 
